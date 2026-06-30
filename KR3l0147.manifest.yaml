@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3l0147/v1
+canonical_location: https://kanripo.org/bkk/KR3l0147/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 烏衣鬼軍記
+  identifiers:
+    krp: KR3l0147
+  tags:
+    kr-categories: KR3l
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0147.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3l0147_001.yaml, hash: 'sha256:f7f2ebdcc2eb764f4a469d3f92b781b8c0b825dd823d9c7ed076ef1631c55573'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3l0147_001.markers.yaml, hash: 'sha256:9f209159822e323e5d8adfddd2e485b49946acc2162174764ec8a2195b8c2e4b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3l0147_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 554
+  label: 烏衣鬼軍記
+  type: section
+  level: 1
+hash: sha256:e1b24ef3f1e23b508e0144fb46df7946a5881efd09718bceb87aefa74546506e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
