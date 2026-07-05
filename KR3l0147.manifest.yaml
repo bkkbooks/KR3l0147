@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0147_001.yaml, hash: 'sha256:f7f2ebdcc2eb764f4a469d3f92b781b8c0b825dd823d9c7ed076ef1631c55573'}
+  - {seq: 1, filename: KR3l0147_001.yaml, hash: 'sha256:f94f21882e5f5da32a273318b027ffc395b814609bd2076009f7ba25dfdefe52'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0147_001.markers.yaml, hash: 'sha256:9f209159822e323e5d8adfddd2e485b49946acc2162174764ec8a2195b8c2e4b'}
+  - {seq: 1, role: markers, filename: assets/KR3l0147_001.markers.yaml, hash: 'sha256:0f4751afe4f3fe8627ef8df7869819df6803bf5275f746aede5961b5dd59aac1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 烏衣鬼軍記
   type: section
   level: 1
-hash: sha256:e1b24ef3f1e23b508e0144fb46df7946a5881efd09718bceb87aefa74546506e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c4e571e2c556e1aa08d883ef6f7309d8fd646d9358f702d80c14b7428bc67dab
