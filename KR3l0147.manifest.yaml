@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0147/v1
 canonical_location: https://kanripo.org/bkk/KR3l0147/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 烏衣鬼軍記
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0147_001.yaml, hash: 'sha256:f94f21882e5f5da32a273318b027ffc395b814609bd2076009f7ba25dfdefe52'}
+  - {seq: 1, filename: KR3l0147_001.yaml, hash: 'sha256:f7f2ebdcc2eb764f4a469d3f92b781b8c0b825dd823d9c7ed076ef1631c55573'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0147_001.markers.yaml, hash: 'sha256:0f4751afe4f3fe8627ef8df7869819df6803bf5275f746aede5961b5dd59aac1'}
+  - {seq: 1, role: markers, filename: assets/KR3l0147_001.markers.yaml, hash: 'sha256:f636c8cc47b0a1c114c0ef30ac22252271363a1f18f7d2f28f8bf728b27511c0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 烏衣鬼軍記
   type: section
   level: 1
-hash: sha256:c4e571e2c556e1aa08d883ef6f7309d8fd646d9358f702d80c14b7428bc67dab
+hash: sha256:e7cbea2e10a85e51d6de2174248f2694b20931ba95cc77987a7811ed4d9a058a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
